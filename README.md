@@ -1,2 +1,2 @@
 # my-chicolino
-foos services
+foods services
